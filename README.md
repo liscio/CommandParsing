@@ -1,6 +1,6 @@
 # CommandParsing
 
-This is a demonstration of my approach for parsing commands using [swift-parsing][parsing].
+This is a demonstration of my approach for parsing commands using [swift-parsing][swift-parsing].
 
 ## Overview
 
